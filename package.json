@@ -1,0 +1,20 @@
+{
+  "name": "kms",
+  "version": "1.0.0",
+  "description": "This template provides an easy way to use NodeJS v16 on Replit! As of writing, NodeJS repls have Node v12, which is several years out of date.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "case-insensitive": "^1.0.0",
+    "chance": "^1.1.8",
+    "currency-system": "^2.6.47",
+    "discord.js": "^13.5.1",
+    "mongoose": "^6.1.6",
+    "wokcommands": "^1.5.3"
+  }
+}

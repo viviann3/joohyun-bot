@@ -1,0 +1,149 @@
+{
+  "cards": [
+    {
+      "name": "Rosé",
+      "image": "https://media.discordapp.net/attachments/932577712768442389/932591035585019944/joohyun_card.png?width=406&height=609",
+      "rarity": "⭐",
+      "group": "Blackpink",
+      "issue": "0"
+    }, {
+      "name": "Jisoo",
+      "image": "https://media.discordapp.net/attachments/932577712768442389/932590615772921886/joohyun_card.png?width=406&height=609",
+      "rarity": "⭐",
+      "group": "Blackpink",
+      "issue": "0"
+    }, {
+      "name": "Jennie",
+      "image": "https://media.discordapp.net/attachments/932577712768442389/932590823487471636/joohyun_card.png?width=406&height=609",
+      "rarity": "⭐",
+      "group":"Blackpink",
+      "issue":"0"
+    }, {
+      "name": "Lisa",
+      "image": "https://media.discordapp.net/attachments/932577712768442389/932591242271932506/joohyun_card.png?width=406&height=609",
+      "rarity": "⭐",
+      "group": "Blackpink",
+      "issue": "0"
+    }, {
+      "name": "Yena",
+      "image": "https://media.discordapp.net/attachments/932577712768442389/932577758024957972/joohyun_card.png?width=406&height=609",
+      "rarity": "⭐",
+      "group":"Soloist",
+      "issue":"0"
+    }, {
+      "name": "Hyewon",
+      "image": "https://media.discordapp.net/attachments/932577712768442389/932587639947812924/joohyun_card.png?width=406&height=609",
+      "rarity": "⭐",
+      "group":"Soloist",
+      "issue":"0"
+    }, {
+      "name": "Yujin",
+      "image": "https://media.discordapp.net/attachments/932577712768442389/932583468490186762/joohyun_card.png?width=429&height=643",
+      "rarity": "⭐",
+      "group":"Kep1er",
+      "issue":"0"
+    }, {
+      "name": "Xiaoting",
+      "image": "https://media.discordapp.net/attachments/932577712768442389/932583987199758396/joohyun_card.png?width=429&height=643",
+      "rarity": "⭐",
+      "group":"Kep1er",
+      "issue":"0"
+    }, {
+      "name": "Mashiro",
+      "image": "https://media.discordapp.net/attachments/932577712768442389/932584522640392222/joohyun_card.png?width=429&height=643",
+      "rarity": "⭐",
+      "group":"Kep1er",
+      "issue":"0"
+    }, {
+      "name": "Chaehyun",
+      "image": "https://media.discordapp.net/attachments/932577712768442389/932584810252226590/joohyun_card.png?width=429&height=643",
+      "rarity": "⭐",
+      "group":"Kep1er",
+      "issue":"0"
+    }, {
+      "name": "Dayeon",
+      "image": "https://media.discordapp.net/attachments/932577712768442389/932585003789983744/joohyun_card.png?width=429&height=643",
+      "rarity": "⭐",
+      "group":"Kep1er",
+      "issue":"0"
+    }, {
+      "name": "Hikaru",
+      "image": "https://media.discordapp.net/attachments/932577712768442389/932585247676182539/joohyun_card.png?width=429&height=643",
+      "rarity": "⭐",
+      "group":"Kep1er",
+      "issue":"0"
+    }, {
+      "name": "Bahiyyih",
+      "image": "https://media.discordapp.net/attachments/932577712768442389/932585451821338634/joohyun_card.png?width=429&height=643",
+      "rarity": "⭐",
+      "group":"Kep1er",
+      "issue":"0"
+    }, {
+      "name": "Yeseo",
+      "image": "https://media.discordapp.net/attachments/932577712768442389/932585692230479882/joohyun_card.png?width=429&height=643",
+      "rarity": "⭐",
+      "group":"Kep1er",
+      "issue":"0"
+    }, {
+      "name": "Youngeun",
+      "image": "https://media.discordapp.net/attachments/932577712768442389/932585930445959218/joohyun_card.png?width=429&height=643",
+      "rarity": "⭐",
+      "group":"Kep1er",
+      "issue":"0"
+    }, {
+      "name": "Irene",
+      "image": "https://media.discordapp.net/attachments/932577712768442389/932595025873866772/joohyun_card.png?width=406&height=609",
+      "rarity":"⭐",
+      "group":"Red Velvet",
+      "issue": "0"
+    }, {
+      "name":"Seulgi",
+      "image":"https://media.discordapp.net/attachments/932577712768442389/932595631619461120/joohyun_card.png?width=406&height=609",
+      "rarity":"⭐",
+      "group":"Red Velvet",
+      "issue": "0"
+    }, {
+      "name":"Wendy",
+      "image":"https://media.discordapp.net/attachments/932577712768442389/932596252892356608/joohyun_card.png?width=406&height=609",
+      "rarity":"⭐",
+      "group":"Red Velvet",
+      "issue":"0"
+    }, {
+      "name":"Joy",
+      "image":"https://media.discordapp.net/attachments/932577712768442389/932599265983889499/joohyun_card.png?width=406&height=609",
+      "rarity":"⭐",
+      "group":"Red Velvet",
+      "issue":"0"
+    }, {
+      "name":"Yeri",
+      "image":"https://media.discordapp.net/attachments/932577712768442389/932599672365797376/joohyun_card.png?width=406&height=609",
+      "rarity":"⭐",
+      "group":"Red Velvet",
+      "issue":"0"
+    }, {
+      "name":"Karina",
+      "image":"https://media.discordapp.net/attachments/932577712768442389/932602881398407258/joohyun_card.png?width=406&height=609",
+      "rarity":"⭐",
+      "group":"Aespa",
+      "issue":"0"
+    }, {
+      "name":"Winter",
+      "image":"https://media.discordapp.net/attachments/932577712768442389/932603063766753290/joohyun_card.png?width=406&height=609",
+      "rarity":"⭐",
+      "group":"Aespa",
+      "issue":"0"
+    }, {
+      "name":"Giselle",
+      "image":"https://media.discordapp.net/attachments/932577712768442389/932603431477198898/joohyun_card.png?width=406&height=609",
+      "rarity":"⭐",
+      "group":"Aespa",
+      "issue":"0"
+    }, {
+      "name":"NingNing",
+      "image":"https://media.discordapp.net/attachments/932577712768442389/932603747534770226/joohyun_card.png?width=406&height=609",
+      "rarity":"⭐",
+      "group":"Aespa",
+      "issue":"0"
+    }
+  ]
+}
