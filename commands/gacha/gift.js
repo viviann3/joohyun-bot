@@ -17,6 +17,7 @@ module.exports = {
       } else {
         console.log(arg)
       }
+      const card1 = await 
     } catch (err) {
       console.log(err)
     }
