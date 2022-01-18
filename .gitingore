@@ -1,0 +1,4 @@
+.env
+index.js
+.gitignore
+commands/gacha/inv.js
